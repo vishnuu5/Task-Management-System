@@ -57,7 +57,7 @@ Configure environment variables: Create in the backend directory with the follow
 
 ```bash
 PORT=5000
-MONGO_URI=<your-mongodb-uri>
+MONGO_URI="mongodb+srv://vishnu:GMVk2arWcDgvxpQQ@cluster0.elocm.mongodb.net/task-manager?retryWrites=true&w=majority&appName=Cluster0"
 ```
 Run the backend server:
 ```bash
