@@ -137,7 +137,7 @@ Task Form: Add new tasks.
 Task List: View all tasks with status and actions.
 Task Edit/Delete: Update or remove tasks.
 
-![TaskManagement](https://github.com/user-attachments/assets/2f4aee77-2400-4250-9840-c8cea9ff84f6)
+![TaskManagement](https://github.com/user-attachments/assets/54d7876d-5feb-41f0-a273-662d9d5641c1)
 
 ## Technologies Used
 Frontend: React, Tailwind CSS, Axios
